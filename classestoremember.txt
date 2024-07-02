@@ -1,0 +1,9 @@
+-> bg  background
+-> m margin
+-> grid
+-> place-content-center
+-> h-screen
+-> text-white text-4xl
+-> md: sm: used for screen and by default its uses mobile screen 
+
+npx tailwindcss -i ./src/input.css -o ./dist/style.css --watch
